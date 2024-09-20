@@ -3,5 +3,4 @@ languageCode: es-es
 title: Year 2000 non-compliant sysadmin 
 theme: ["PaperMod"]
 enableEmoji: true
-
-[params]
+publishDir: docs
