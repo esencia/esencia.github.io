@@ -1,6 +1,8 @@
 baseURL: https://esencia.github.io/
 languageCode: es-es
 title: Year 2000 non-compliant sysadmin 
-theme: ["PaperMod"]
+theme: PaperMod
 enableEmoji: true
 publishDir: docs
+paginate: 5
+mainSections: posts
