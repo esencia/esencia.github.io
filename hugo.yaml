@@ -1,6 +1,6 @@
 baseURL: https://blog.javino.es/
 languageCode: es-es
-title: canonigos.es
+title: javino.es
 description: Year 2000 non-compliant sysadmin blog
 theme: PaperMod
 enableEmoji: true

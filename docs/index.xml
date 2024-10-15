@@ -4,16 +4,23 @@
     <title>canonigos.es</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on canonigos.es</description>
-    <generator>Hugo -- 0.133.0</generator>
+    <generator>Hugo -- 0.136.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 20 Sep 2024 19:05:10 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 20:11:13 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/pages/about/</link>
+      <pubDate>Fri, 20 Sep 2024 20:11:13 +0200</pubDate>
+      <guid>http://localhost:1313/pages/about/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Fri, 20 Sep 2024 19:05:10 +0200</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>Hello World!</description>
+      <description>&lt;p&gt;Hello World!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
