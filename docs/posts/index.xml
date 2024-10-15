@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Year 2000 non-compliant sysadmin</title>
-    <link>https://blog.canonigos.es/posts/</link>
-    <description>Recent content in Posts on Year 2000 non-compliant sysadmin</description>
+    <title>Posts on canonigos.es</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on canonigos.es</description>
     <generator>Hugo -- 0.133.0</generator>
     <language>es-es</language>
     <lastBuildDate>Fri, 20 Sep 2024 19:05:10 +0200</lastBuildDate>
-    <atom:link href="https://blog.canonigos.es/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://blog.canonigos.es/posts/hello-world/</link>
+      <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Fri, 20 Sep 2024 19:05:10 +0200</pubDate>
-      <guid>https://blog.canonigos.es/posts/hello-world/</guid>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
       <description>Hello World!</description>
     </item>
   </channel>

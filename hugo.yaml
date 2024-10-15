@@ -1,8 +1,14 @@
-baseURL: https://blog.canonigos.es/
+baseURL: https://blog.javino.es/
 languageCode: es-es
-title: Year 2000 non-compliant sysadmin 
+title: canonigos.es
+description: Year 2000 non-compliant sysadmin blog
 theme: PaperMod
 enableEmoji: true
 publishDir: docs
 paginate: 5
 mainSections: posts
+
+params:
+  contact: 
+    email: esencia@gmail.com
+  subtitle: Year 2000 non-compliant sysadmin blog
