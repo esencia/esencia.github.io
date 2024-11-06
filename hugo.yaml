@@ -1,6 +1,6 @@
-baseURL: https://esencia.github.io/
+baseURL: https://blog.javino.es/
 languageCode: es-es
-title: Javino
+title: Year 2000 non-compliant sysadmin
 theme: ["PaperMod"]
 
 enableRobotsTXT: true
