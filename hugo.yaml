@@ -1,0 +1,9 @@
+baseURL: https://esencia.github.io/
+languageCode: es-es
+title: Javino
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
