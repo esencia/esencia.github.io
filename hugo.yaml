@@ -3,6 +3,14 @@ languageCode: es-es
 title: Year 2000 non-compliant sysadmin
 theme: ["hugo-blog-awesome"]
 
+params:
+  socialIcons:
+    name: github
+    url: https://github.com/esencia
+  socialIcons:
+    name: twitter
+    url: https://x.com/canonigos
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
