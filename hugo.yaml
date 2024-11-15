@@ -1,7 +1,7 @@
 baseURL: https://blog.javino.es/
 languageCode: es-es
 title: Year 2000 non-compliant sysadmin
-theme: ["PaperMod"]
+theme: ["hugo-blog-awesome"]
 
 enableRobotsTXT: true
 buildDrafts: false
