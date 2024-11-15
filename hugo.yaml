@@ -5,11 +5,8 @@ theme: ["hugo-blog-awesome"]
 
 params:
   socialIcons:
-    name: ["github"]
-    url: ["https://github.com/esencia"]
-  socialIcons:
-    name: ["twitter"]
-    url: ["https://x.com/canonigos"]
+    name: github
+    url: "https://github.com/esencia"
 
 enableRobotsTXT: true
 buildDrafts: false
