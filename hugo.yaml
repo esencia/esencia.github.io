@@ -12,6 +12,16 @@ params:
       url: "https://x.com/canonigos"
   toc: true
 
+menus:
+  main:
+    - name: Inicio
+      pageRef: /
+      weight: 10
+    - name: Entradas
+      pageRef: /posts
+    - name: Sobre mi
+      pageRef: /about
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
