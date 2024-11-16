@@ -17,12 +17,15 @@ menus:
     - name: Inicio
       pageRef: /
       weight: 10
+      url: /
     - name: Entradas
       pageRef: /posts
       weight: 20
+      url: /posts/
     - name: Sobre mí
       pageRef: /about
       weight: 30
+      url: /about/
 
 enableRobotsTXT: true
 buildDrafts: false
