@@ -19,8 +19,10 @@ menus:
       weight: 10
     - name: Entradas
       pageRef: /posts
-    - name: Sobre mi
+      weight: 20
+    - name: Sobre mí
       pageRef: /about
+      weight: 30
 
 enableRobotsTXT: true
 buildDrafts: false
