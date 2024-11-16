@@ -1,5 +1,6 @@
 baseURL: https://blog.javino.es/
 languageCode: es-es
+defaultContentLanguage: es-es
 title: Year 2000 non-compliant sysadmin
 theme: ["hugo-blog-awesome"]
 
@@ -9,6 +10,7 @@ params:
       url: "https://github.com/esencia"
     - name: "twitter"
       url: "https://x.com/canonigos"
+  toc: true
 
 enableRobotsTXT: true
 buildDrafts: false
