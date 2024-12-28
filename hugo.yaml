@@ -4,6 +4,8 @@ defaultContentLanguage: es-es
 title: Year 2000 non-compliant sysadmin
 theme: ["hugo-blog-awesome"]
 
+contentDir: content/
+
 params:
   socialIcons:
     - name: "github"
